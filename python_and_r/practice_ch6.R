@@ -1,7 +1,6 @@
 ---
 title: "study_hw_0921"
 output:
-  html_notebook: default
   github_document: default
 ---
 
