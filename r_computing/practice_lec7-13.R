@@ -653,6 +653,15 @@ mosaicplot(~DriveTrain+AirBags+Origin, las=1,
 # ----- 11강 실습 끝 -----
 
 # 12강에서 배우는 함수
+# correlate()
+# fashion()
+# rplot()
+# network_plot(min_cor= .x)
+# varclus(~. , data= , similarity= )
+# readJPEG("파일경로")
+# readPNG("파일경로")
+# rasterImage(벡터, x축/좌, y축/하, x축/우, y축/상)
+# text(y좌표, x좌표, pos=정렬, '원하는\n문구', col=색상)
 
 # ----- 12강 실습 시작 -----
 install.packages("magrittr")
