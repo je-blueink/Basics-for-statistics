@@ -3,11 +3,6 @@ title: "study_hw_0921"
 output:
   html_notebook: default
   github_document: default
-  
----
-
-9월 21일 숙제 / 3팀(R) - 홈트 라이언
-
 ---
 
 **책 5. mtcars 자료를 대상으로 다음 작업을 수행하는 dplyr 코드를 작성하고, 실제 수행시킨 결과를 제시하시오.**
